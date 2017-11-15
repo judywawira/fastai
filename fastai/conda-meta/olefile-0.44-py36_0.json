@@ -1,0 +1,43 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/osx-64",
+  "date": "2017-01-30",
+  "depends": [
+    "python 3.6*"
+  ],
+  "files": [
+    "lib/python3.6/site-packages/OleFileIO_PL.py",
+    "lib/python3.6/site-packages/__pycache__/OleFileIO_PL.cpython-36.pyc",
+    "lib/python3.6/site-packages/olefile-0.44-py3.6.egg-info",
+    "lib/python3.6/site-packages/olefile/CONTRIBUTORS.txt",
+    "lib/python3.6/site-packages/olefile/LICENSE.txt",
+    "lib/python3.6/site-packages/olefile/README.html",
+    "lib/python3.6/site-packages/olefile/README.rst",
+    "lib/python3.6/site-packages/olefile/__init__.py",
+    "lib/python3.6/site-packages/olefile/__pycache__/__init__.cpython-36.pyc",
+    "lib/python3.6/site-packages/olefile/__pycache__/olefile.cpython-36.pyc",
+    "lib/python3.6/site-packages/olefile/olefile.py"
+  ],
+  "fn": "olefile-0.44-py36_0.tar.bz2",
+  "license": "BSD License",
+  "license_family": "BSD",
+  "link": {
+    "source": "/anaconda/pkgs/olefile-0.44-py36_0",
+    "type": 1
+  },
+  "md5": "884198509f36a156540a98bf70b0f1d6",
+  "name": "olefile",
+  "noarch": null,
+  "platform": "darwin",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "size": 53057,
+  "subdir": "osx-64",
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/olefile-0.44-py36_0.tar.bz2",
+  "version": "0.44",
+  "with_features_depends": {}
+}

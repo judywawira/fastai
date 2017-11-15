@@ -1,0 +1,43 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/osx-64",
+  "date": "2017-01-03",
+  "depends": [],
+  "files": [
+    "bin/cjpeg",
+    "bin/djpeg",
+    "bin/jpegtran",
+    "bin/rdjpgcom",
+    "bin/wrjpgcom",
+    "include/jconfig.h",
+    "include/jerror.h",
+    "include/jmorecfg.h",
+    "include/jpeglib.h",
+    "lib/libjpeg.9.dylib",
+    "lib/libjpeg.a",
+    "lib/libjpeg.dylib",
+    "lib/libjpeg.la"
+  ],
+  "fn": "jpeg-9b-0.tar.bz2",
+  "license": "Custom free software license",
+  "license_family": "Other",
+  "link": {
+    "source": "/anaconda/pkgs/jpeg-9b-0",
+    "type": 1
+  },
+  "md5": "9430f9f41041e43672a4668e7225f6f3",
+  "name": "jpeg",
+  "noarch": null,
+  "platform": "darwin",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "size": 245715,
+  "subdir": "osx-64",
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/jpeg-9b-0.tar.bz2",
+  "version": "9b",
+  "with_features_depends": {}
+}

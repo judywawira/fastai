@@ -1,0 +1,38 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/soumith/osx-64",
+  "depends": [
+    "numpy",
+    "pillow",
+    "python 3.6*",
+    "pytorch >=0.2",
+    "six"
+  ],
+  "files": [
+    "lib/python3.6/site-packages/torchvision-0.1.9-py3.6.egg",
+    "lib/python3.6/site-packages/torchvision.pth"
+  ],
+  "fn": "torchvision-0.1.9-py36_1.tar.bz2",
+  "has_prefix": false,
+  "license": "BSD",
+  "link": {
+    "source": "/anaconda/pkgs/torchvision-0.1.9-py36_1",
+    "type": 1
+  },
+  "md5": "ca52637d82c07d06522fc10fd587d761",
+  "name": "torchvision",
+  "noarch": null,
+  "platform": "darwin",
+  "preferred_env": null,
+  "priority": 0,
+  "requires": [],
+  "schannel": "soumith",
+  "size": 87801,
+  "subdir": "osx-64",
+  "url": "https://conda.anaconda.org/soumith/osx-64/torchvision-0.1.9-py36_1.tar.bz2",
+  "version": "0.1.9",
+  "with_features_depends": {}
+}
